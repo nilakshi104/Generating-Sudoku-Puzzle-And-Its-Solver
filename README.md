@@ -1,5 +1,8 @@
 # Generating-Sudoku-Puzzle-And-Its-Solver
 
+## Objective:
+The objective of this project is to generate sudoku puzzle and its solver
+
 ## Methodology: 
 The major part of methodology includes studying the backtracking algorithm and how to use that with recursion. Also, we did search for the logic behind sudoku solver and sudoku generator.Using the backtracking algorithm. The initial code which we wrote was hard to debug and very large so we tried our best to make it short. 
 The algorithm which we used is explained below:-
